@@ -1,5 +1,5 @@
 title = "PLOTTI"
-baseURL = "https://gohugo-theme-ananke.pages.dev"
+baseURL = "https://stjaco.github.io/plotti-website/"
 languageCode = "en-us"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 resourceDir = "resources"
