@@ -2,10 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PLOTTI</title>
-    <link>https://gohugo-theme-ananke.pages.dev/it/</link>
+    <link>https://stjaco.github.io/plotti-website/it/</link>
     <description>Recent content on PLOTTI</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>it</language>
-    <atom:link href="https://gohugo-theme-ananke.pages.dev/it/index.xml" rel="self" type="application/rss+xml" />
+    <language>it-IT</language>
+    <atom:link href="https://stjaco.github.io/plotti-website/it/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PLOTTI</title>
+      <link>https://stjaco.github.io/plotti-website/it/</link>
+      <pubDate>Wed, 17 Jan 2024 10:37:12 +0100</pubDate>
+      <guid>https://stjaco.github.io/plotti-website/it/</guid>
+      <description>Benvenut* Questo e&amp;rsquo; il sito ufficiale del progetto PLOTTI</description>
+    </item>
   </channel>
 </rss>

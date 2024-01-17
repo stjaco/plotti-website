@@ -2,46 +2,53 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://gohugo-theme-ananke.pages.dev/it/categories/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <loc>https://stjaco.github.io/plotti-website/it/</loc>
+    <lastmod>2024-01-17T10:37:12+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://gohugo-theme-ananke.pages.dev/categories/"
+                hreflang="en-US"
+                href="https://stjaco.github.io/plotti-website/en/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="it"
-                href="https://gohugo-theme-ananke.pages.dev/it/categories/"
-                />
-  </url><url>
-    <loc>https://gohugo-theme-ananke.pages.dev/it/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gohugo-theme-ananke.pages.dev/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://gohugo-theme-ananke.pages.dev/it/"
+                hreflang="it-IT"
+                href="https://stjaco.github.io/plotti-website/it/"
                 />
   </url><url>
-    <loc>https://gohugo-theme-ananke.pages.dev/it/tags/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <loc>https://stjaco.github.io/plotti-website/it/categories/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://gohugo-theme-ananke.pages.dev/tags/"
+                hreflang="en-US"
+                href="https://stjaco.github.io/plotti-website/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="it"
-                href="https://gohugo-theme-ananke.pages.dev/it/tags/"
+                hreflang="it-IT"
+                href="https://stjaco.github.io/plotti-website/it/categories/"
+                />
+  </url><url>
+    <loc>https://stjaco.github.io/plotti-website/it/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://stjaco.github.io/plotti-website/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="https://stjaco.github.io/plotti-website/it/"
+                />
+  </url><url>
+    <loc>https://stjaco.github.io/plotti-website/it/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://stjaco.github.io/plotti-website/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="https://stjaco.github.io/plotti-website/it/tags/"
                 />
   </url>
 </urlset>

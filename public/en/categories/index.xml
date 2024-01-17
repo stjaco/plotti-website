@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on PLOTTI</title>
-    <link>https://stjaco.github.io/plotti-website/it/categories/</link>
+    <link>https://stjaco.github.io/plotti-website/en/categories/</link>
     <description>Recent content in Categories on PLOTTI</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>it-IT</language>
-    <atom:link href="https://stjaco.github.io/plotti-website/it/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-US</language>
+    <atom:link href="https://stjaco.github.io/plotti-website/en/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
