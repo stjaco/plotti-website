@@ -1,0 +1,28 @@
+title = "PLOTTI"
+baseURL = "https://stjaco.github.io/plotti-website/"
+languageCode = "en-us"
+theme = 'ananke'
+
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
+[languages]
+  [languages.it]
+    contentDir = 'content/it'
+    disabled = false
+    languageCode = 'it-IT'
+    languageDirection = 'ltr'
+    languageName = 'Italian'
+    title = 'PLOTTI'
+    weight = 2
+    [languages.it.params]
+      subtitle = 'un progetto PRIN'
+  [languages.en]
+    contentDir = 'content/en'
+    disabled = false
+    languageCode = 'en-US'
+    languageDirection = 'ltr'
+    languageName = 'English'
+    title = 'PLOTTI'
+    weight = 1
+    [languages.en.params]
+      subtitle = 'a PRIN project'
