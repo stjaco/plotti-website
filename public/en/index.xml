@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PLOTTI</title>
+    <link>https://stjaco.github.io/plotti-website/en/</link>
+    <description>Recent content on PLOTTI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <atom:link href="https://stjaco.github.io/plotti-website/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PLOTTI</title>
+      <link>https://stjaco.github.io/plotti-website/en/</link>
+      <pubDate>Wed, 17 Jan 2024 10:37:12 +0100</pubDate>
+      <guid>https://stjaco.github.io/plotti-website/en/</guid>
+      <description>Welcome This is the official PLOTTI project website..</description>
+    </item>
+  </channel>
+</rss>
