@@ -4,6 +4,7 @@
   <url>
     <loc>https://stjaco.github.io/plotti-website/en/</loc>
     <lastmod>2024-01-17T10:37:12+01:00</lastmod>
+<<<<<<< HEAD
     <xhtml:link
                 rel="alternate"
                 hreflang="it-IT"
@@ -14,6 +15,8 @@
                 hreflang="en-US"
                 href="https://stjaco.github.io/plotti-website/en/"
                 />
+=======
+>>>>>>> 6fcce31a48fcceafb948e1eab9db6576d2d55367
   </url><url>
     <loc>https://stjaco.github.io/plotti-website/en/categories/</loc>
     <xhtml:link

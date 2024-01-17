@@ -2,6 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+<<<<<<< HEAD
     <loc>https://stjaco.github.io/plotti-website/it/</loc>
     <lastmod>2024-01-17T10:37:12+01:00</lastmod>
     <xhtml:link
@@ -15,6 +16,8 @@
                 href="https://stjaco.github.io/plotti-website/it/"
                 />
   </url><url>
+=======
+>>>>>>> 6fcce31a48fcceafb948e1eab9db6576d2d55367
     <loc>https://stjaco.github.io/plotti-website/it/categories/</loc>
     <xhtml:link
                 rel="alternate"

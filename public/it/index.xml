@@ -7,6 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>it-IT</language>
     <atom:link href="https://stjaco.github.io/plotti-website/it/index.xml" rel="self" type="application/rss+xml" />
+<<<<<<< HEAD
     <item>
       <title>PLOTTI</title>
       <link>https://stjaco.github.io/plotti-website/it/</link>
@@ -14,5 +15,7 @@
       <guid>https://stjaco.github.io/plotti-website/it/</guid>
       <description>Benvenut* Questo e&amp;rsquo; il sito ufficiale del progetto PLOTTI</description>
     </item>
+=======
+>>>>>>> 6fcce31a48fcceafb948e1eab9db6576d2d55367
   </channel>
 </rss>
