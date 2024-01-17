@@ -7,4 +7,4 @@ draft: false
 
 ## Benvenut*
 
-Questo e' il sito ufficiale del progetto **PLOTTI**
+Sito ufficiale del progetto **PLOTTI**. 
